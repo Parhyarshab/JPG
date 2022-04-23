@@ -16,10 +16,11 @@ pip install bs4
 
 pip install future
 
+
 cd $HOME 
-rm -rf JPG
-git clone https://github.com/Parhyarshab/JPG.git
+rm -rf SSB
+git clone git clone https://github.com/Sarfraz-Ssb/SSB
 
-cd JPG
+cd SSB
 
-python JPG.py
+python SSB.py
